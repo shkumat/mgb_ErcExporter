@@ -1,2 +1,2 @@
 # mgb_ErcExporter
-Program creates of datafiles for the ERC
+This program creates datafiles for the "ÅÐÖ". It depends on the "MyTypes" class-library.
